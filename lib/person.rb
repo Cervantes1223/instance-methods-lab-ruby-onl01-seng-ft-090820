@@ -1,4 +1,4 @@
 class Person 
-def walk 
+def talk 
   puts 
 end 
